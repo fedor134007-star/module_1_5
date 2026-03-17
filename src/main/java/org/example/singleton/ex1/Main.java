@@ -1,6 +1,4 @@
-package org.example.singleton;
-
-import org.example.abstractfactory.database.Database;
+package org.example.singleton.ex1;
 
 public class Main {
     public static void main(String[] args) {

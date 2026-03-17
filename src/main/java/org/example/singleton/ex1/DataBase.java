@@ -1,7 +1,9 @@
-package org.example.singleton;
+package org.example.singleton.ex1;
 
 public class DataBase {
     private static DataBase instance;
+
+    private DataBase() {}
 
     public static DataBase getInstance() {
         if (instance == null) {
