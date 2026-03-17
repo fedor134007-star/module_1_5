@@ -1,5 +1,4 @@
 package org.example.interpreter.ex1.expression;
-import org.example.interpreter.ex1.expression.CalcExpression;
 
 public class MinusExpression implements CalcExpression {
     CalcExpression expr;

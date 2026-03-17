@@ -4,7 +4,7 @@ import org.example.interpreter.ex1.expression.CalcExpression;
 
 public class TerminalExpression implements CalcExpression {
 
-    private int number;
+    private final int number;
 
     public TerminalExpression(int number) {
         this.number = number;
