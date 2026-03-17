@@ -1,4 +1,4 @@
-package org.example.prototypeEx;
+package org.example.prototypeEx.ex1;
 
 public class UserFactory {
     private User user;

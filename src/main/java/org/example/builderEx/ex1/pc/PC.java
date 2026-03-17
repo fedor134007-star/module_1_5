@@ -1,4 +1,4 @@
-package org.example.builderEx.pc;
+package org.example.builderEx.ex1.pc;
 
 public class PC {
     final Display monitor;

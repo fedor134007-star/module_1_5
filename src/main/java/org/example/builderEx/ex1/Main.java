@@ -1,9 +1,9 @@
-package org.example.builderEx;
+package org.example.builderEx.ex1;
 
-import org.example.builderEx.builder.CustomDirector;
-import org.example.builderEx.builder.CustomPCBuilder;
-import org.example.builderEx.builder.StandardDirector;
-import org.example.builderEx.builder.StandardPCBuilder;
+import org.example.builderEx.ex1.builder.CustomDirector;
+import org.example.builderEx.ex1.builder.CustomPCBuilder;
+import org.example.builderEx.ex1.builder.StandardDirector;
+import org.example.builderEx.ex1.builder.StandardPCBuilder;
 
 public class Main {
     static void main() {

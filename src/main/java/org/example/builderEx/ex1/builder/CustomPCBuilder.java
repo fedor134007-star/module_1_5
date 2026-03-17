@@ -1,6 +1,6 @@
-package org.example.builderEx.builder;
+package org.example.builderEx.ex1.builder;
 
-import org.example.builderEx.pc.*;
+import org.example.builderEx.ex1.pc.*;
 
 public class CustomPCBuilder extends CustomBuilder {
     private CPU cpu;

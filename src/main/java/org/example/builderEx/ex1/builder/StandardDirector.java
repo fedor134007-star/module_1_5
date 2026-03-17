@@ -1,6 +1,6 @@
-package org.example.builderEx.builder;
+package org.example.builderEx.ex1.builder;
 
-import org.example.builderEx.pc.PC;
+import org.example.builderEx.ex1.pc.PC;
 
 public class StandardDirector {
     StandardBuilder builder;

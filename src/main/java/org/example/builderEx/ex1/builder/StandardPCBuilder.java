@@ -1,6 +1,6 @@
-package org.example.builderEx.builder;
+package org.example.builderEx.ex1.builder;
 
-import org.example.builderEx.pc.*;
+import org.example.builderEx.ex1.pc.*;
 
 public class StandardPCBuilder extends StandardBuilder {
     private CPU cpu;
@@ -33,7 +33,6 @@ public class StandardPCBuilder extends StandardBuilder {
     public void setPrice() {
         this.price = 300;
     }
-
 
     @Override
     public PC createPC() {
